@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>My Personal Audio</title>
+    <link>https://myhsi.github.io/myfeed/feed.xml
+    <description>Audio files hosted on Google Drive, feed on GitHub Pages</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Episode 01 - My First Audio File</title>
+      <description>Track description or notes</description>
+      <!-- Paste your converted Google Drive direct URL below -->
+      <enclosure 
+        url="https://drive.usercontent.google.com/download?id=19ZBSAy5_k6fMB1-AmFLxLjymROJ-azvL&export=download" 
+        length="15728640" 
+        type="audio/mpeg" />
+      <guid isPermaLink="false">track-01-id</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+    </item>
+       <item>
+      <title>Episode 02 - My First Audio File</title>
+      <description>Track description or notes</description>
+      <!-- Paste your converted Google Drive direct URL below -->
+      <enclosure 
+        url="https://drive.usercontent.google.com/download?id=1AQtt9ymBt1bWUj7xaJRbdEkTbW9c9YDH&export=download" 
+        length="15728640" 
+        type="audio/mpeg" />
+      <guid isPermaLink="false">track-02-id</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:01 GMT</pubDate>
+    </item>
+  </channel>
+   <item>
+      <title>Episode 03 - My First Audio File</title>
+      <description>Track description or notes</description>
+      <!-- Paste your converted Google Drive direct URL below -->
+      <enclosure 
+        url="https://drive.usercontent.google.com/download?id=1qBLfB-ZpMbzN81udYCzgFXhRFyw30vxX&export=download" 
+        length="15728640" 
+        type="audio/mpeg" />
+      <guid isPermaLink="false">track-03-id</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:02 GMT</pubDate>
+    </item>
+</rss>
