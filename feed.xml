@@ -10,7 +10,7 @@
       <title>Episode 01 - My First Audio File</title>
       <description>Track description or notes</description>
       <!-- Paste your converted Google Drive direct URL below -->
-      <enclosure url="https://drive.usercontent.google.com/download?id=19ZBSAy5_k6fMB1-AmFLxLjymROJ-azvL&export=download" length="15728640" type="audio/mpeg" />
+      <enclosure url="https://drive.google.com/uc?id=19ZBSAy5_k6fMB1-AmFLxLjymROJ-azvL" length="15728640" type="audio/mpeg" />
       <guid isPermaLink="false">track-01-id</guid>
       <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
     </item>
@@ -19,7 +19,7 @@
       <description>Track description or notes</description>
       <!-- Paste your converted Google Drive direct URL below -->
       <enclosure 
-        url="https://drive.usercontent.google.com/download?id=1AQtt9ymBt1bWUj7xaJRbdEkTbW9c9YDH&export=download" 
+        url="https://drive.google.com/uc?id=1AQtt9ymBt1bWUj7xaJRbdEkTbW9c9YDH" 
         length="15728640" 
         type="audio/mpeg" />
       <guid isPermaLink="false">track-02-id</guid>
@@ -31,7 +31,7 @@
       <description>Track description or notes</description>
       <!-- Paste your converted Google Drive direct URL below -->
       <enclosure 
-        url="https://drive.usercontent.google.com/download?id=1qBLfB-ZpMbzN81udYCzgFXhRFyw30vxX&export=download" 
+        url="https://drive.google.com/uc?id=1qBLfB-ZpMbzN81udYCzgFXhRFyw30vxX" 
         length="15728640" 
         type="audio/mpeg" />
       <guid isPermaLink="false">track-03-id</guid>
