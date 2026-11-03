@@ -25,7 +25,7 @@
       <guid isPermaLink="false">track-02-id</guid>
       <pubDate>Mon, 02 Nov 2026 12:00:01 GMT</pubDate>
     </item>
-  </channel>
+
    <item>
       <title>Episode 03 - My First Audio File</title>
       <description>Track description or notes</description>
@@ -37,4 +37,5 @@
       <guid isPermaLink="false">track-03-id</guid>
       <pubDate>Mon, 02 Nov 2026 12:00:02 GMT</pubDate>
     </item>
+        </channel>
 </rss>
