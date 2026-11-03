@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>My Personal Audio</title>
-    <link>https://myhsi.github.io/myfeed/feed.xml
+    <link>https://myhsi.github.io/myfeed/feed.xml</link>
     <description>Audio files hosted on Google Drive, feed on GitHub Pages</description>
     <language>en-us</language>
 
